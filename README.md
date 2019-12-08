@@ -44,7 +44,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Julio Añoveros**
 
 - Github: [@jubaan](https://github.com/jubaan)
-- Twitter: [@noverosJulio](https://twitter.com/AnoverosJulio)
+- Twitter: [@AnoverosJulio](https://twitter.com/AnoverosJulio)
 - Linkedin: [linkedin](https://www.linkedin.com/in/julio-a%C3%B1overos-b987a8a/)
 
 👤 **Author2**
